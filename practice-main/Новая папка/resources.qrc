@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="Документ">
+    <file>resources.qrc</file>
+    <file>teoria.docx</file>
+  </qresource>
+</RCC>
